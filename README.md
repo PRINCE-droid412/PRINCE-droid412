@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me✨
 
- A Frontend Software Developer with hands-on experience building responsive, performant web applications. Proficient in Wordpress, React.js, Next.js, TypeScript, Tailwind CSS, React Native (Expo), REST APIs, GraphQL and Redux.**.
+ A Frontend Software Developer with hands-on experience building responsive, performant web applications. Proficient in Wordpress, React.js, Next.js, TypeScript, Tailwind CSS, React Native (Expo), REST APIs, GraphQL and Redux.
 
 ✨ I aim to contribute to impactful projects that leverage cutting-edge technologies to solve real-world problems and drive business success.
 
