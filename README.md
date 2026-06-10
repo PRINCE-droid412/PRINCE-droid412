@@ -17,7 +17,6 @@
 - 🚀 Advanced Frontend Architectures
 - 🧩 Building Accessible Interfaces (a11y)
 - 🤖 Prompt Engineering & AI-Driven UX
-- 🌱 Scalable digital marketing funnels using data-driven techniques
 
 ---
 
@@ -29,8 +28,7 @@
 - 🌐 Languages: HTML, CSS, JavaScript, JSX
 - ⚛️ Frameworks: React.js, Tailwind CSS, Node.js
 - 🧠 AI Tools: OpenAI APIs, Claude.ai, etc.  AI for Dev tools
-- 🛠️ Tools: Git, GitHub, VS Code, Figma, Canva, etc
-- 📈 Marketing Tools: Google Analytics, SEO Tools, WordPress, Mailchimp
+- 🛠️ Tools: Wordpress, Git, GitHub, VS Code, Figma, etc
 
 ---
 
