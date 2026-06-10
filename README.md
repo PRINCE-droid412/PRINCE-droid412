@@ -25,11 +25,13 @@
 
 - ## 🚀 Tech Stack
 
-- 🌐 Languages: HTML, CSS, JavaScript, JSX
-- ⚛️ Frameworks: React.js, Tailwind CSS, Node.js
+- 🌐 Languages:  HTML5, CSS3, JavaScript (ES6+), TypeScript
+- 🔌 APIs & Data: REST APIs, GraphQL
+- ⚛️ Frameworks: React.js, Nextjs, Tailwind CSS, Node.js
 - 🧠 AI Tools: OpenAI APIs, Claude.ai, etc.  AI for Dev tools
-- 🛠️ Tools: Wordpress, Git, GitHub, VS Code, Figma, etc
-
+- 🖥️ CMS & Web Platforms: WordPress, WooCommerce, Elementor
+- 🛠️ Tools: Git, GitHub, Visual Studio Code, npm, Webpack, Babel, Figma
+- 🎨 Other: Responsive Web Design, UI/UX Implementation, Node.js, Agile/Scrum
 ---
 
 ## My Skills 🧠
